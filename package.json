@@ -1,0 +1,30 @@
+{
+  "name": "api-test",
+  "version": "1.0.0",
+  "description": "This is a project for API-test",
+  "main": "index.js",
+  "scripts": {
+    "test": " jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishmitra13/api-test.git"
+  },
+  "author": "Monalisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manishmitra13/api-test/issues"
+  },
+  "homepage": "https://github.com/manishmitra13/api-test#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.10",
+    "jest": "^26.4.0",
+    "jest-html-reporter": "^3.1.3",
+    "jest-html-reporters": "^2.0.3",
+    "node-fetch": "^2.6.0"
+  },
+  "dependencies": {
+    "ts-jest": "^26.2.0",
+    "typescript": "^3.9.7"
+  }
+}
